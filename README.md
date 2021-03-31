@@ -18,3 +18,8 @@ gradlew.bat build
 ```
 ./gradlew eclipse
 ```
+
+## Run the application
+```
+./gradlew runPlay
+```
