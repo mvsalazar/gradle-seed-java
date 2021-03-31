@@ -1,9 +1,15 @@
 build
 logs
 target
+gradle
 /.idea
 /.idea_modules
 /.classpath
 /.project
 /.settings
+/.g8
+/.gradle
+/.vscode
 /RUNNING_PID
+gradlew
+gradlew.bat
