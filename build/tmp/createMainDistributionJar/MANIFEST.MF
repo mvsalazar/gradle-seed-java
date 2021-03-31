@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Class-Path: com.typesafe.play-play-java_2.12-2.7.0.jar com.typesafe.play
+ -play-ws_2.12-2.7.0.jar com.typesafe.play-play-guice_2.12-2.7.0.jar com
+ .typesafe.play-play-docs_2.12-2.7.9.jar com.typesafe.play-play-akka-htt
+ p-server_2.12-2.7.9.jar com.typesafe.play-play-server_2.12-2.7.9.jar co
+ m.typesafe.play-play_2.12-2.7.9.jar com.typesafe.play-play-ws-standalon
+ e-json_2.12-2.0.1.jar com.typesafe.play-play-json_2.12-2.7.4.jar common
+ s-lang-commons-lang-2.6.jar ch.qos.logback-logback-classic-1.2.3.jar co
+ m.typesafe.play-play-streams_2.12-2.7.9.jar com.typesafe.play-play-ws-s
+ tandalone-xml_2.12-2.0.1.jar com.typesafe.play-play-ws-standalone_2.12-
+ 2.0.1.jar com.typesafe.akka-akka-stream_2.12-2.5.31.jar com.typesafe.ak
+ ka-akka-slf4j_2.12-2.5.31.jar com.typesafe.akka-akka-actor_2.12-2.5.31.
+ jar org.scala-lang.modules-scala-java8-compat_2.12-0.9.0.jar com.typesa
+ fe.play-play-doc_2.12-2.0.2.jar com.typesafe.akka-akka-http-core_2.12-1
+ 0.1.12.jar com.typesafe.play-twirl-api_2.12-1.4.2.jar com.typesafe.akka
+ -akka-parsing_2.12-10.1.12.jar org.scala-lang.modules-scala-xml_2.12-1.
+ 2.0.jar com.typesafe.akka-akka-protobuf_2.12-2.5.31.jar com.typesafe-ss
+ l-config-core_2.12-0.4.1.jar org.scala-lang-scala-reflect-2.12.11.jar o
+ rg.scala-lang.modules-scala-parser-combinators_2.12-1.1.2.jar com.types
+ afe.play-play-functional_2.12-2.7.4.jar org.scala-lang-scala-library-2.
+ 12.11.jar com.typesafe.play-build-link-2.7.9.jar org.slf4j-jul-to-slf4j
+ -1.7.26.jar org.slf4j-jcl-over-slf4j-1.7.26.jar org.slf4j-slf4j-api-1.7
+ .26.jar com.fasterxml.jackson.datatype-jackson-datatype-jdk8-2.9.10.jar
+  com.fasterxml.jackson.datatype-jackson-datatype-jsr310-2.9.10.jar io.j
+ sonwebtoken-jjwt-0.9.1.jar com.fasterxml.jackson.core-jackson-databind-
+ 2.9.10.1.jar com.fasterxml.jackson.core-jackson-core-2.9.10.jar com.fas
+ terxml.jackson.core-jackson-annotations-2.9.10.jar com.google.inject.ex
+ tensions-guice-assistedinject-4.2.2.jar com.google.inject-guice-4.2.2.j
+ ar com.google.guava-guava-27.1-jre.jar javax.xml.bind-jaxb-api-2.3.1.ja
+ r javax.transaction-jta-1.1.jar javax.inject-javax.inject-1.jar net.jod
+ ah-typetools-0.5.0.jar joda-time-joda-time-2.10.1.jar ch.qos.logback-lo
+ gback-core-1.2.3.jar com.typesafe.play-play-exceptions-2.7.9.jar org.re
+ activestreams-reactive-streams-1.0.2.jar com.typesafe-config-1.4.0.jar 
+ com.google.guava-failureaccess-1.0.1.jar com.google.guava-listenablefut
+ ure-9999.0-empty-to-avoid-conflict-with-guava.jar com.google.code.findb
+ ugs-jsr305-3.0.2.jar org.checkerframework-checker-qual-2.5.2.jar com.go
+ ogle.errorprone-error_prone_annotations-2.2.0.jar com.google.j2objc-j2o
+ bjc-annotations-1.1.jar org.codehaus.mojo-animal-sniffer-annotations-1.
+ 17.jar javax.activation-javax.activation-api-1.2.0.jar aopalliance-aopa
+ lliance-1.0.jar org.pegdown-pegdown-1.6.0.jar commons-io-commons-io-2.6
+ .jar org.parboiled-parboiled-java-1.1.7.jar org.parboiled-parboiled-cor
+ e-1.1.7.jar org.ow2.asm-asm-analysis-5.0.3.jar org.ow2.asm-asm-util-5.0
+ .3.jar org.ow2.asm-asm-tree-5.0.3.jar org.ow2.asm-asm-5.0.3.jar gradle-
+ seed-java-assets.jar
+
